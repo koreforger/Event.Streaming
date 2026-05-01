@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Event.Streaming.Out</AssemblyName>
+    <RootNamespace>Event.Streaming.Out</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Event.Streaming.Processing" VersionOverride="1.0.1-alpha" />
+  </ItemGroup>
+
+</Project>

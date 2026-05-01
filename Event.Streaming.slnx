@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/Event.Streaming.In/" />
+  <Folder Name="/Event.Streaming.In/src/">
+    <Project Path="Event.Streaming.In/src/Event.Streaming.In/Event.Streaming.In.csproj" />
+  </Folder>
+  <Folder Name="/Event.Streaming.In/tst/">
+    <Project Path="Event.Streaming.In/tst/Event.Streaming.In.Tests/Event.Streaming.In.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Event.Streaming.Out/" />
+  <Folder Name="/Event.Streaming.Out/src/">
+    <Project Path="Event.Streaming.Out/src/Event.Streaming.Out/Event.Streaming.Out.csproj" />
+  </Folder>
+  <Folder Name="/Event.Streaming.Out/tst/">
+    <Project Path="Event.Streaming.Out/tst/Event.Streaming.Out.Tests/Event.Streaming.Out.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Event.Streaming.Processing/" />
+  <Folder Name="/Event.Streaming.Processing/src/">
+    <Project Path="Event.Streaming.Processing/src/Event.Streaming.Processing/Event.Streaming.Processing.csproj" />
+  </Folder>
+  <Folder Name="/Event.Streaming.Processing/tst/">
+    <Project Path="Event.Streaming.Processing/tst/Event.Streaming.Processing.Tests/Event.Streaming.Processing.Tests.csproj" />
+  </Folder>
+</Solution>
