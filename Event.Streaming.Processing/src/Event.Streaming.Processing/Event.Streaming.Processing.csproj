@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <AssemblyName>Event.Streaming.Processing</AssemblyName>
     <RootNamespace>Event.Streaming.Processing</RootNamespace>
@@ -9,6 +9,6 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="KoreForge.Jex" Version="1.0.2-alpha" />
+    <PackageReference Include="KoreForge.Jex" Version="1.1.2" />
   </ItemGroup>
 </Project>

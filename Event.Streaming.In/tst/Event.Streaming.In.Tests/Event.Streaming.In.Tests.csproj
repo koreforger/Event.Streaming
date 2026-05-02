@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -16,6 +16,6 @@
     <Using Include="Xunit" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Event.Streaming.In" VersionOverride="1.0.2-alpha" />
+    <PackageReference Include="Event.Streaming.In" VersionOverride="1.1.2" />
   </ItemGroup>
 </Project>
