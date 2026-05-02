@@ -1,12 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <AssemblyName>Event.Streaming.Out</AssemblyName>
     <RootNamespace>Event.Streaming.Out</RootNamespace>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
-
   <ItemGroup>
-    <PackageReference Include="Event.Streaming.Processing" VersionOverride="1.0.1-alpha" />
+    <PackageReference Include="Event.Streaming.Processing" VersionOverride="1.0.2-alpha" />
   </ItemGroup>
-
 </Project>
